@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508154329 source:e:\c++\primer\primer_1\1_2\1_2_add_two_numbers.cpp
+	<iostream>
+
+1508154661 source:e:\c++\primer\primer_1\1_2\1_2_hello.cpp
+	<iostream>
+
+1508155037 source:e:\c++\primer\primer_1\1_2\1_2_multiply.cpp
+	<iostream>
+

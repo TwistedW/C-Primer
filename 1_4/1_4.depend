@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1508156703 source:e:\c++\primer\primer_1\1_4\1_4_sum.cpp
+	<iostream>
+
+1508157012 source:e:\c++\primer\primer_1\1_4\1_4_sum_50_to_100.cpp
+	<iostream>
+
+1508157189 source:e:\c++\primer\primer_1\1_4\1_4_sum_10_to_1.cpp
+	<iostream>
+
+1508160363 source:e:\c++\primer\primer_1\1_4\1_4_cin_cout_numbers.cpp
+	<iostream>
+
+1508159499 source:e:\c++\primer\primer_1\1_4\1_4_cout_10_to_1.cpp
+	<iostream>
+
+1508207588 source:e:\c++\primer\primer_1\1_4\1_4_sum_1_to_10_for.cpp
+	<iostream>
+
+1508213386 source:e:\c++\primer\primer_1\1_4\1_4_cin_numbers_sum.cpp
+	<iostream>
+
+1508213653 source:e:\c++\primer\primer_1\1_4\1_4_occurs_times.cpp
+	<iostream>
+
