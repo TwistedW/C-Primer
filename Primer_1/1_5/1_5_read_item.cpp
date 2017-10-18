@@ -1,13 +1,12 @@
 #include <iostream>
-#include"Sales_item.h"
+//#include"Sales_item.h"
 
 using namespace std;
 
-int main()
+int main1()
 {
-    Sales_item book;
-    std::cin>>book;
-    std::cout<<book<<std::endl;
+    //Sales_item book;
+    //std::cin>>book;
+    //std::cout<<book<<std::endl;
     return 0;
-
 }
