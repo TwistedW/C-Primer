@@ -2,9 +2,8 @@
 1446667744 source:e:\c++\primer\primer_1\1_5\main.cpp
 	<iostream>
 
-1508324295 source:e:\c++\primer\primer_1\1_5\1_5_read_item.cpp
+1508324405 source:e:\c++\primer\primer_1\1_5\1_5_read_item.cpp
 	<iostream>
-	"Sales_item.h"
 
 1508313335 e:\c++\primer\primer_1\1_5\include\sales_item.h
 	<iostream>
