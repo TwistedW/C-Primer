@@ -9,7 +9,13 @@
 	<iostream>
 	<string>
 
-1508324387 source:e:\c++\primer\primer_1\1_5\1_5_add_item.cpp
+1508329943 source:e:\c++\primer\primer_1\1_5\1_5_add_item.cpp
+	<iostream>
+
+1508336780 source:e:\c++\primer\primer_1\1_5\1_5_cout_item.cpp
 	<iostream>
 	"Sales_item.h"
+
+1508336556 source:e:\c++\primer\primer_1\1_5\1_5_idetify_item.cpp
+	<iostream>
 
