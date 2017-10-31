@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509415793 source:e:\c++\primer\primer_3\3_2\getline_app.cpp
+	<iostream>
+
+1509362649 source:e:\c++\primer\primer_3\3_2\main.cpp
+	<iostream>
+
+1509416567 source:e:\c++\primer\primer_3\3_2\punct_prossing.cpp
+	<iostream>
+
