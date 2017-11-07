@@ -20,5 +20,8 @@ int main()
         ++cnt;
         cout << col << endl;
     }
+    for(auto p=a; p!=a+3; ++p)
+        for(auto q=*p; q!=*p+4; ++q)
+            cout<<*q<<endl;
     return 0;
 }
