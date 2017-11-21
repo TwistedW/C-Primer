@@ -1,18 +1,15 @@
 #include <iostream>
+#include <localmath.h>
 
 using namespace std;
 
-int fact(int val)
-{
-    int ret=1;
-    for(int i=1; i!=val+1; ++i){
-        ret*=i;
-    }
-    return ret;
-}
 int main()
 {
-    int j=fact(10);
+    int j, input;
+    cout<<"please input a number:";
+    cin>> input;
+    j = fact(input);
     cout << j << endl;
     return 0;
 }
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1511263793 source:e:\c++\primer\primer_6\6_2\src\localmath.cpp
+	"localmath.h"
+
+1511263925 e:\c++\primer\primer_6\6_2\include\localmath.h
+
+1511263952 source:e:\c++\primer\primer_6\6_2\main.cpp
+	<iostream>
+	<localmath.h>
+
